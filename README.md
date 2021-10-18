@@ -1,12 +1,3 @@
-## User Experience Design
-
-This repository contains instructions and files for two assignments that together comprise the user experience design phase of a web app.
-
-Replace the contents of this file with the completed assignments, as described in:
-
-- [app map and wireframe instructions](./ux-design/instructions-app-map-wireframe.md).
-- [prototype instructions](./ux-design/instructions-prototype.md)
-
 # Dyor
 
 ## Prototype
@@ -40,7 +31,7 @@ Replace the contents of this file with the completed assignments, as described i
 
 ![User-Signup](./ux-design/wireframes/SignUp/SignUp.png)
 ![User-Signup-Filled](./ux-design/wireframes/SignUp/SignUp-Filled.png)
-![User-Signup-Confirmed](./ux-design/wireframes/SignUp/SignUp-confirmed.png)
+![User-Signup-confirmed](./ux-design/wireframes/SignUp/Signup-confirmed.png)
 
 <br>
 
